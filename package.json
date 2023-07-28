@@ -17,5 +17,9 @@
         "path": "./themes/Midcentury-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atomicguy/midcentury.git"
   }
 }
