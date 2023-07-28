@@ -1,0 +1,21 @@
+{
+  "name": "midcentury",
+  "displayName": "Midcentury",
+  "description": "Midcentury Colors inspired by Our Friend the Atom",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midcentury",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midcentury-color-theme.json"
+      }
+    ]
+  }
+}
