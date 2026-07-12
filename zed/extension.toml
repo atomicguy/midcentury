@@ -1,0 +1,7 @@
+id = "midcentury"
+name = "Midcentury"
+version = "0.0.1"
+schema_version = 1
+authors = ["Adam Schuster"]
+description = "Midcentury Colors inspired by Our Friend the Atom"
+repository = "https://github.com/atomicguy/midcentury"
