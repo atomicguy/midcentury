@@ -15,6 +15,11 @@
         "label": "Midcentury",
         "uiTheme": "vs-dark",
         "path": "./themes/Midcentury-color-theme.json"
+      },
+      {
+        "label": "Midcentury Light",
+        "uiTheme": "vs",
+        "path": "./themes/Midcentury-light-color-theme.json"
       }
     ]
   },
